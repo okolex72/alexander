@@ -1,3 +1,6 @@
 *.txt
 *.tfvars
 *.html
+*.doc
+*1
+error.html
